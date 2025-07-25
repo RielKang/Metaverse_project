@@ -17,9 +17,15 @@ public class Plane : MonoBehaviour
 
     GameManager gameManager = null;
 
-    void Start()
+
+    private void Awake()
     {
         gameManager = GameManager.Instance;
+    }
+    void Start()
+    {
+        
+        
 
         animator = transform.GetComponentInChildren<Animator>();
         _rigidbody = transform.GetComponent<Rigidbody2D>();
@@ -75,10 +81,11 @@ public class Plane : MonoBehaviour
 
     public void OnCollisionEnter2D(Collision2D collision)
     {
+        Debug.Log("Plane 충돌 감지: " + collision.gameObject.name);
         if (godMode || isDead)
             return;
 
-        animator.SetInteger("IsDie", 1);
+        animator.SetInteger("isDie", 1);
         isDead = true;
         deathCooldown = 1f;
         gameManager.GameOver();

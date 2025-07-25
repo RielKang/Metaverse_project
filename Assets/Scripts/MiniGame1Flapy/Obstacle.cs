@@ -17,9 +17,10 @@ public class Obstacle : MonoBehaviour
 
     public float widthPadding = 4f;
 
+    //GameManager gameManager;
     public void Start()
     {
-        // GameManager 연결 불필요 (점수 제거됨)
+        
     }
 
     public Vector3 SetRandomPlace(Vector3 lastPosition, int obstacleCount)
@@ -38,10 +39,10 @@ public class Obstacle : MonoBehaviour
     }
 
     // 기존 점수 로직 제거됨:
-    // private void OnTriggerExit2D(Collider2D other)
-    // {
-    //     Player player = other.GetComponent<Player>();
-    //     if (player != null)
-    //         gameManager.AddScore(1);
-    // }
+     private void OnTriggerExit2D(Collider2D other)
+     {
+         Plane player = other.GetComponent<Plane>();
+         if (player != null)
+            GameManager.Instance.AddScore(1);
+     }
 }

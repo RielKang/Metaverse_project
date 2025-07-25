@@ -6,10 +6,26 @@ using UnityEngine.SceneManagement;
 
 public class UIManager : MonoBehaviour
 {
+    public static UIManager Instance { get; private set; }
+
     public TextMeshProUGUI scoreText;
     public GameObject restartPanel;
     public GameObject restartButton;
     public GameObject returnButton;
+    private void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+            // DontDestroyOnLoad(gameObject); ← 씬 간 유지하고 싶다면 추가
+        }
+        else
+        {
+            Destroy(gameObject); // 혹시 중복 생성 방지
+        }
+
+        restartPanel?.SetActive(false);
+    }
 
     void Start()
     {
@@ -40,14 +56,22 @@ public class UIManager : MonoBehaviour
 
     public void ShowRestartPanel()
     {
-        restartPanel.SetActive(true);
+        
+        Debug.Log("ShowRestartPanel() 호출됨");
+        if (restartPanel != null)
+        {
+            restartPanel.SetActive(true);
+            Debug.Log("RestartPanel 활성화 완료");
+        }
+        else
+        {
+            Debug.LogWarning("restartPanel이 연결되지 않았습니다!");
+        }
+
+
     }
 
-    public void HideRestartPanel()
-    {
-        restartPanel.SetActive(false);
-    }
-
+   
     public void RestartGame()
     {
         GameManager.Instance.RestartGame();

@@ -38,6 +38,10 @@ public class BgLooper : MonoBehaviour
         if (obstacle)
         {
             obstacleLastPosition = obstacle.SetRandomPlace(obstacleLastPosition, obestacleCount);
+            if (!GameManager.Instance.IsGameOver)
+            {
+                GameManager.Instance.AddScore(1);
+            }
         }
     }
 }

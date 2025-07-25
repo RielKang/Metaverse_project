@@ -7,20 +7,40 @@
       "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\metaverse_project\\assets\\scripts\\main\\minigameinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\minigameinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\metaverse_project\\assets\\scripts\\minigame1flapy\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\assets\\scripts\\minigame1flapy\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame1flapy\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\metaverse_project\\assets\\scripts\\main\\minigametrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\minigametrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\assets\\scripts\\minigame1flapy\\bglooper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame1flapy\\bglooper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\metaverse_project\\assets\\scripts\\main\\gamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\assets\\scripts\\main\\minigameinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\minigameinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\assets\\scripts\\minigame1flapy\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame1flapy\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\assets\\scripts\\minigame1flapy\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame1flapy\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\assets\\scripts\\minigame1flapy\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame1flapy\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\assets\\scripts\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\assets\\scripts\\main\\gamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\gamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\assets\\scripts\\main\\minigametrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D4F4D-4DB7-6B15-40D5-3E26892D8009}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\minigametrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +50,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BgLooper.cs",
+              "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\MiniGame1Flapy\\BgLooper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGame1Flapy\\BgLooper.cs",
+              "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\MiniGame1Flapy\\BgLooper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniGame1Flapy\\BgLooper.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:23:49.534Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +73,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
               "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\Manager\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAWwDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAYwJoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T14:16:01.728Z",
               "EditorCaption": ""
@@ -48,54 +81,100 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MiniGameInteract.cs",
-              "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\Main\\MiniGameInteract.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Main\\MiniGameInteract.cs",
-              "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\Main\\MiniGameInteract.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Main\\MiniGameInteract.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAASwBAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:15:51.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UIManager.cs",
               "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\MiniGame1Flapy\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGame1Flapy\\UIManager.cs",
               "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\MiniGame1Flapy\\UIManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\MiniGame1Flapy\\UIManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T14:15:42.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAtwCUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T15:06:09.459Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MiniGameInteract.cs",
+              "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\Main\\MiniGameInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main\\MiniGameInteract.cs",
+              "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\Main\\MiniGameInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main\\MiniGameInteract.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:15:51.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\MiniGame1Flapy\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGame1Flapy\\Obstacle.cs",
+              "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\MiniGame1Flapy\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniGame1Flapy\\Obstacle.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:24:04.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\MiniGame1Flapy\\Plane.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGame1Flapy\\Plane.cs",
+              "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\MiniGame1Flapy\\Plane.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniGame1Flapy\\Plane.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAWwFoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:25:09.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FollowCamera.cs",
+              "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\MiniGame1Flapy\\FollowCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGame1Flapy\\FollowCamera.cs",
+              "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\MiniGame1Flapy\\FollowCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniGame1Flapy\\FollowCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T15:16:02.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MiniGameTrigger.cs",
               "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\Main\\MiniGameTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Main\\MiniGameTrigger.cs",
               "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\Main\\MiniGameTrigger.cs",
               "RelativeToolTip": "Assets\\Scripts\\Main\\MiniGameTrigger.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAtwCsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:12:15.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T14:12:15.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Gamer.cs",
               "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\Main\\Gamer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Main\\Gamer.cs",
               "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\\uC0C8 \uD3F4\uB354\\Metaverse_project\\Assets\\Scripts\\Main\\Gamer.cs",
               "RelativeToolTip": "Assets\\Scripts\\Main\\Gamer.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAtwEIAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAtwEUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:12:05.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T14:12:05.276Z"
             }
           ]
         }
