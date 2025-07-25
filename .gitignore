@@ -31,8 +31,6 @@ Thumbs.db
 sysinfo.txt
 .crashreport*
 
-# 숨김 메타파일
-*.meta
 
 # Unity Cloud 관련
 *.collabignore
