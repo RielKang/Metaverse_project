@@ -12,12 +12,12 @@ public class UIManager : MonoBehaviour
     public GameObject restartPanel;
     public GameObject restartButton;
     public GameObject returnButton;
-    private void Awake()
+    void Awake()
     {
         if (Instance == null)
         {
             Instance = this;
-            // DontDestroyOnLoad(gameObject); ← 씬 간 유지하고 싶다면 추가
+            DontDestroyOnLoad(gameObject);
         }
         else
         {
@@ -25,6 +25,25 @@ public class UIManager : MonoBehaviour
         }
 
         restartPanel?.SetActive(false);
+    }
+    void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded; //  씬 로드 이벤트 등록
+    }
+
+    void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded; //  이벤트 제거 (메모리 누수 방지)
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        
+        Canvas gameCanvas = GameObject.Find("Canvas")?.GetComponent<Canvas>();
+        if (gameCanvas != null)
+        {
+            gameCanvas.gameObject.SetActive(true); //  캔버스 켜주기
+        }
     }
 
     void Start()
